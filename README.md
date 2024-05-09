@@ -21,3 +21,4 @@ The `n_gram_models.ipynb` notebook contains implementations of bigram and trigra
 This project was developed by the following collaborators:
 1. [Rafail Mpalis](https://github.com/Rafimc13)
 2. [Dion Voulgarakis](https://github.com/dionvou)
+3. [Dimitris Stathopoulos](https://github.com/Dimitris-STAT)
