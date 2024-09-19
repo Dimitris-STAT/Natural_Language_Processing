@@ -8,9 +8,9 @@ Each folder in this repository includes Jupyter Notebooks with code and explanat
 
 The structure of the repository is as follows:
 
-folder/ 
-├── notebooks/ 
-└── docs/
+folder 
+├── notebooks
+└── docs
 
 - **`notebooks/`**: Contains Jupyter Notebooks with code and implementation details.
 - **`docs/`**: Contains documentation and explanation files.
